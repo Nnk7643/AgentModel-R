@@ -1,4 +1,4 @@
-# AgentModel-R
+# AgentModel-R【Latest Version:1.1】
 An easy-and-basic agent model from branchX-403.                            
 这是作者蕨锅鳟煮（Rioter）基于游戏Lobotomy Corporation，为自己的同人支部绘制的二次创作自用模板。                    
 本模板的全部内容免费，并且将在github持续更新。也可联系作者q1606995692获取。最终版权归project moon所有。                
